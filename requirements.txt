@@ -1,0 +1,6 @@
+astro-sdk-python[amazon,databricks,duckdb,google,postgres,snowflake]==1.5.3
+
+airflow-provider-cube==0.0.1
+airflow-provider-anomaly-detection==0.0.33
+acryl-datahub[airflow]==0.11.0
+airflow-provider-census==1.1.1
